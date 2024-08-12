@@ -26,7 +26,7 @@ end
 
 % Save the model space
 
-output_patj = '/Users/almila/Desktop/stats project copy 4/bms1'
+output_path = '/Users/almila/Desktop/stats project copy 4/bms1'
 filename = fullfile(output_path, 'model_space1.mat');
 save(filename, 'subj');
 
